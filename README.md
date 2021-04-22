@@ -24,6 +24,16 @@ live site : https://alik-kumar-ghosh.github.io/Undone_Assignment/
 npm install 
 
 ```
+
+if it doesn't work then you have to install tailwind css manually:
+
+```
+
+npm install -D tailwindcss@npm:@tailwindcss/postcss7-compat @tailwindcss/postcss7-compat postcss@^7 autoprefixer@^9
+
+npm install @craco/craco
+
+```
  
  ### ScreenCast
  
