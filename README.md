@@ -9,10 +9,12 @@ live site : https://alik-kumar-ghosh.github.io/Undone_Assignment/
 
 ### Technologies Used
 `<React JS> ` <br>
-` <TailWind CSS> `<br>
+`<TailWind CSS> `<br>
+`<Particles JS> ` <br>
 
 [https://reactjs.org/](https://reactjs.org/) <br>
 [https://tailwindcss.com/](https://tailwindcss.com/) <br>
+[https://github.com/VincentGarreau/particles.js/](https://github.com/VincentGarreau/particles.js/)
 
 
 ---
